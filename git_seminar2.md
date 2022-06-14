@@ -19,3 +19,5 @@
 **git branch branch_name** - создание новой ветки, где *branch_name* - имя ветки
 
 **git merge branch_name** -- слияние веток
+
+**git branch -d branch_name** - удаление веток.
