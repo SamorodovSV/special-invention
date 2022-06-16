@@ -26,3 +26,7 @@
 **git merge branch_name** -- слияние веток
 
 **git branch -d branch_name** - удаление веток.
+
+## Создание конфликта:
+
+![Конфликт к практическому заданию](conflikt.jpg) 
